@@ -8,6 +8,4 @@ I am a Junior Front End Developer with expertise in:
 * JS
 * React
 * VueJS
-* AEM
-
-Between other....
+* and so on...
