@@ -1,7 +1,7 @@
 # Hey, I am David Vieira (@davidvm1)
 
 ## About Me
-I am a Junior Front End Developer with expertise in:
+I am a Mid-Level Front End Developer with experience working with:
 
 * HTML
 * CSS
