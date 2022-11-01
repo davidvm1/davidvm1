@@ -1,11 +1,24 @@
 # Hey, I am David Vieira (@davidvm1)
 
 ## About Me
-I am a Mid-Level Front End Developer with experience working with:
+ Front-end Software Engineer with approximately 3 years of experience working in both English and
+Spanish speaking teams (in different industries and projects) with Agile methodologies and technologies
+such as React, Vue, HTML5, CSS3, Javascript (ES6 included), Git (with Gitflow methodology) and Node.js,
+working both in the technological and the decision-making parts of the business. Passionate for learning
+new things, collaborating in teams and assuming challenges.
 
-* HTML
-* CSS
-* JS
-* React
-* VueJS
-* and so on...
+Proficient In:
+● React
+● Vue
+● HTML
+● Typescript
+● CSS
+● Javascript
+● Git
+● Gitflow
+● Node
+● Contentful
+● REST
+● NoSQL
+● Firebase
+● GCP
